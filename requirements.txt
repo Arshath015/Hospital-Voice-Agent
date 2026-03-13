@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langgraph
+fastapi
+uvicorn
+streamlit
+streamlit-mic-recorder
+python-dotenv
+pydantic
+httpx

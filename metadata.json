@@ -1,0 +1,5 @@
+{
+  "name": "Hospital Voice Agent",
+  "description": "A modular POC for a voice-to-voice AI agent for hospital appointment booking using LangGraph, FastAPI, and Streamlit.",
+  "requestFramePermissions": ["microphone"]
+}
