@@ -1,5 +1,7 @@
 # Hospital Voice Agent POC
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
 A modular Proof of Concept (POC) for a voice-to-voice AI agent for hospital appointment booking.
 
 ## Architecture Overview
