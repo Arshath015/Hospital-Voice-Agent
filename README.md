@@ -40,3 +40,10 @@ While the running demo is in React, the following structure is provided as a ref
 
 ---
 **Last updated:** 2026-07-17
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
