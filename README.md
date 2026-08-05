@@ -39,7 +39,7 @@ While the running demo is in React, the following structure is provided as a ref
 
 
 ---
-**Last updated:** 2026-07-17
+**Last updated:** 2026-08-05
 
 
 ## Requirements
